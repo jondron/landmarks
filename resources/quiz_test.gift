@@ -1,0 +1,17 @@
+//These are test questions in GIFT format 
+::1.:: What letter does Apple start with?
+{
+     =Letter A
+     ~Letter B
+     ~Letter C
+     ~Letter D
+     ~Letter E
+}
+::2.:: What letter does Car start with?
+{
+     ~Letter A
+     ~Letter B
+     =Letter C
+     ~Letter D
+     ~Letter E
+}
